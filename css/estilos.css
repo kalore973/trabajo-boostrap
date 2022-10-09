@@ -1,0 +1,31 @@
+.letra{
+font-size: 1.5rem;
+}
+
+.sombra{
+    box-shadow: 10px 10px 5px 0px rgba(120,95,95,0.75);
+    background-color: rgb(238, 165, 113);
+    color:rgb(94, 86, 86) ;
+    border-color:rgb(94, 86, 86) ;
+}
+.sombra:hover{
+    background-color: blueviolet;
+}
+.card-title1{
+    padding-top: 1rem;
+}
+.card-img-top{
+    height: 61%;
+}
+.card-img-top2{
+    height: 100%;
+}
+.form-label{
+    padding-top: 0.5rem;
+}
+.form-control:hover{
+    background-color: #97FF33;
+}
+.form-check-input{
+    background-color: #FF4233 ;
+}
